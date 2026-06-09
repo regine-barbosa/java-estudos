@@ -4,7 +4,7 @@ Repositório criado para registrar minha evolução nos estudos de Java.
 
 ## Temas estudados
 
-- [ ] POO e Loops
+- [X] POO e Loops
 - [ ] Collections List
 - [ ] Collections Set
 - [ ] Collections Map
@@ -19,10 +19,10 @@ Repositório criado para registrar minha evolução nos estudos de Java.
 
 ### POO e Loops
 
-- [ ] Cadastro de Alunos
-- [ ] Sistema de Funcionários
-- [ ] Conta Bancária
-- [ ] Estoque
+- [X] Cadastro de Alunos
+- [X] Sistema de Funcionários
+- [X] Conta Bancária
+- [X] Estoque
 
 ### Collections List
 
